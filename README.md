@@ -5,4 +5,4 @@ in addition you can observe your data in this case temperature on your Android d
 
 You just have to add a data slot in your database named as "state" and put it's value as 0. 
 
-To download the App go to this link.
+To download the App go to this link. https://github.com/shubhamomase/IoT-App
