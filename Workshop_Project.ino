@@ -13,10 +13,10 @@ const double C = 0.0000000876741;
 #define led D1
 int s;
 // Set these to run example.
-#define FIREBASE_HOST "theaf-detection.firebaseio.com"
-#define FIREBASE_AUTH "17gH5IWqNJLIxdemmapoEF8Lyn9uiLtp1tsvJzXZ"
-#define WIFI_SSID "abhi"
-#define WIFI_PASSWORD "12345678"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#define WIFI_SSID "xxxxxxxxxx"
+#define WIFI_PASSWORD "xxxxxxxxx"
 
 void setup() {
   Serial.begin(9600);
